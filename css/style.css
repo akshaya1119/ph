@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#body, html{
+    width: 100%;
+    height: 100%;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+button{
+    cursor: pointer;
+}
+
+/* colors */
+:root{
+    --primary: #005DE9;
+    --secondary: #EDC37E;
+    --bgcolor: #CAA57D;
+    --text: #000100;
+    --hovercolor: #0B0B0E;
+    --whitecolor: #fff;
+}
